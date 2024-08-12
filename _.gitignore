@@ -1,4 +1,0 @@
-**/*.ipynb_checkpoints/
-demo_data.csv
-.vscode
-__pycache__
